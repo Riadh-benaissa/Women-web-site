@@ -1,0 +1,20 @@
+/* Police Lora chargée globalement dans index.html */
+
+.elegance-container {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.elegance-title {
+  font-family: "Lora", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.nav-menu {
+  font-family: "Lora", serif;
+  font-weight: 500;
+  font-style: normal;
+}
