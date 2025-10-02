@@ -2,6 +2,7 @@
   "name": "women_web_site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://riadh-benaissa.github.io/Women-web-site",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
